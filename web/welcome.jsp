@@ -10,6 +10,7 @@
     <head>
 
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+        <script src="script/angular.min.js"></script>
         <title>Welcome</title>
     </head>
     <body>
